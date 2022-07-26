@@ -3,7 +3,7 @@
 
 git init
 git config --local user.name "2vasy"  // or --global
-git cinfig --local user.email 2vasy@gmail.com // or --global
+git config --local user.email 2vasy@gmail.com // or --global
 ***************************************************************
 working with repositories in the terminal
 git status
